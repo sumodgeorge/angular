@@ -10,7 +10,7 @@
     "@angular/animations": "file:../../dist/packages-dist/animations",
     "@angular/common": "file:../../dist/packages-dist/common",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "12.0.0",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/forms": "file:../../dist/packages-dist/forms",
     "@angular/language-service": "file:../../dist/packages-dist/language-service",
