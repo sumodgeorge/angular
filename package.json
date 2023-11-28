@@ -38,7 +38,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "13.0.4",
+    "@angular-devkit/build-angular": "13.2.0",
     "@angular-devkit/build-optimizer": "0.1300.4",
     "@angular-devkit/core": "13.0.4",
     "@angular-devkit/schematics": "13.0.4",
@@ -60,7 +60,7 @@
     "@babel/traverse": "7.8.6",
     "@bazel/concatjs": "4.4.6",
     "@bazel/esbuild": "4.4.6",
-    "@bazel/jasmine": "4.4.6",
+    "@bazel/jasmine": "4.6.0",
     "@bazel/protractor": "4.4.6",
     "@bazel/rollup": "4.4.6",
     "@bazel/runfiles": "4.4.6",
