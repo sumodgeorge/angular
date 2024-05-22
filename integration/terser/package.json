@@ -8,7 +8,7 @@
   "dependencies": {
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "13.0.0",
     "rxjs": "file:../../node_modules/rxjs",
     "terser": "file:../../node_modules/terser",
     "typescript": "file:../../node_modules/typescript",
