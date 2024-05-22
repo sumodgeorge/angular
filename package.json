@@ -43,7 +43,7 @@
     "@angular-devkit/core": "13.0.4",
     "@angular-devkit/schematics": "13.0.4",
     "@angular/animations-12": "npm:@angular/animations@12.2.13",
-    "@angular/cli": "13.0.4",
+    "@angular/cli": "17.0.0",
     "@angular/common-12": "npm:@angular/common@12.2.13",
     "@angular/core-12": "npm:@angular/core@12.2.13",
     "@angular/forms-12": "npm:@angular/forms@12.2.13",
