@@ -7,7 +7,7 @@
     "@angular/cdk": "9.0.0-rc.4",
     "@angular/common": "file:../../node_modules/@angular/common-12",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "13.1.0",
     "@angular/core": "file:../../node_modules/@angular/core-12",
     "@angular/forms": "file:../../node_modules/@angular/forms-12",
     "@angular/material": "9.0.0-rc.4",
