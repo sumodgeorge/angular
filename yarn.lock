@@ -236,7 +236,6 @@
 
 "@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#e4a13cfd135ec766dc9148ba4fe4d3ac76d94137":
   version "0.0.0-486b6e2b6388e2bebf19e6daf0b4b997df62693c"
-  uid e4a13cfd135ec766dc9148ba4fe4d3ac76d94137
   resolved "https://github.com/angular/dev-infra-private-builds.git#e4a13cfd135ec766dc9148ba4fe4d3ac76d94137"
   dependencies:
     "@actions/core" "^1.4.0"
@@ -12255,10 +12254,15 @@ requirejs-config-file@^4.0.0:
     esprima "^4.0.0"
     stringify-object "^3.2.1"
 
-requirejs@^2.3.5, requirejs@^2.3.6:
+requirejs@^2.3.5:
   version "2.3.6"
   resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.6.tgz#e5093d9601c2829251258c0b9445d4d19fa9e7c9"
   integrity sha512-ipEzlWQe6RK3jkzikgCupiTbTvm4S0/CAU5GlgptkN5SO6F3u0UD0K18wy6ErDqiCyP4J4YYe1HuAShvsxePLg==
+
+requirejs@^2.3.7:
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.7.tgz#0b22032e51a967900e0ae9f32762c23a87036bd0"
+  integrity sha512-DouTG8T1WanGok6Qjg2SXuCMzszOo0eHeH9hDZ5Y4x8Je+9JB38HdTLT4/VA8OaUhBa0JPVHJ0pyBkM1z+pDsw==
 
 requires-port@^1.0.0:
   version "1.0.0"
