@@ -54,7 +54,7 @@
     "@angular-devkit/schematics": "20.0.0-rc.3",
     "@angular/build": "20.0.0-rc.3",
     "@angular/cdk": "20.0.0-rc.2",
-    "@angular/cli": "20.0.0-rc.3",
+    "@angular/cli": "20.0.0",
     "@angular/material": "20.0.0-rc.2",
     "@angular/ssr": "20.0.0-rc.3",
     "@babel/cli": "7.27.2",
