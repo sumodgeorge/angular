@@ -13,7 +13,7 @@
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/forms": "file:../../dist/packages-dist/forms",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
-    "@angular/platform-server": "file:../../dist/packages-dist/platform-server",
+    "@angular/platform-server": "20.3.0",
     "@angular/router": "file:../../dist/packages-dist/router",
     "@angular/service-worker": "file:../../dist/packages-dist/service-worker",
     "@angular/upgrade": "file:../../dist/packages-dist/upgrade",
