@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@angular/common": "file:../../dist/packages-dist/common",
+    "@angular/common": "20.3.14",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@angular/core": "file:../../dist/packages-dist/core",
