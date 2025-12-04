@@ -12,8 +12,8 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/compiler": "file:../../dist/packages-dist/compiler",
+    "@angular/common": "20.3.14",
+    "@angular/compiler": "20.3.15",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/forms": "file:../../dist/packages-dist/forms",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
