@@ -9,7 +9,7 @@
   "private": true,
   "dependencies": {
     "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/compiler": "file:../../dist/packages-dist/compiler",
+    "@angular/compiler": "20.3.15",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/router": "file:../../dist/packages-dist/router",
