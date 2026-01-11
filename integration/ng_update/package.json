@@ -8,9 +8,9 @@
   "license": "MIT",
   "dependencies": {
     "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/compiler": "file:../../dist/packages-dist/compiler",
+    "@angular/compiler": "20.3.16",
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
-    "@angular/core": "file:../../dist/packages-dist/core",
+    "@angular/core": "20.3.16",
     "@angular/forms": "file:../../dist/packages-dist/forms",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/platform-server": "file:../../dist/packages-dist/platform-server",
