@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/core": "file:../../dist/packages-dist/core",
+    "@angular/core": "20.3.16",
     "@angular/service-worker": "file:../../dist/packages-dist/service-worker",
     "rxjs": "file:../../node_modules/rxjs",
     "zone.js": "file:../../node_modules/zone.js"
