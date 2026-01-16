@@ -9,8 +9,8 @@
   "private": true,
   "dependencies": {
     "@angular/common": "file:../../dist/packages-dist/common",
-    "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/core": "file:../../dist/packages-dist/core",
+    "@angular/compiler": "20.3.16",
+    "@angular/core": "20.3.16",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/router": "file:../../dist/packages-dist/router",
     "@angular/ssr": "file:../../node_modules/@angular/ssr",
